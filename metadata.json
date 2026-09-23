@@ -1,0 +1,6 @@
+{
+  "name": "Banking Application",
+  "description": "Modern FinTech banking platform with multi-account management, Plaid bank linking, Dwolla money transfers, real-time transaction tracking, and Sentry telemetry monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
